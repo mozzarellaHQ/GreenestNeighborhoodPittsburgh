@@ -1,2 +1,3 @@
 # GreenestNeighborhoodPittsburgh
-Partners: Ben Jackson, Advaitha Agas
+Partners: Ben Jackson, Advaitha Agas.
+
